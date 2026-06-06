@@ -3,287 +3,82 @@
 
 
 <!-- Mirrored from htmldemo.net/zymzoo/zymzoo/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jun 2026 08:46:11 GMT -->
+
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Home 01 - Zymzoo - Gym & Fitness Centre Bootstrap 5 Template</title>
+  <title>Home 01 - Zymzoo - Gym & Fitness Centre Bootstrap 5 Template</title>
 
-    <!--== Favicon ==-->
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
+  <!--== Favicon ==-->
+  <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
 
-    <!--== Google Fonts ==-->
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700,900,900i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Oswald:200,400,500,600,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Exo:400" rel="stylesheet">
+  <!--== Google Fonts ==-->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700,900,900i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Oswald:200,400,500,600,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Exo:400" rel="stylesheet">
 
-    <!--== Bootstrap CSS ==-->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
-    <!--== Font-awesome Icons CSS ==-->
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet"/>
-    <!--== Pe Icon 7 Min Icons CSS ==-->
-    <link href="assets/css/pe-icon-7-stroke.min.css" rel="stylesheet"/>
-    <!--== Animate CSS ==-->
-    <link href="assets/css/animate.css" rel="stylesheet"/>
-    <!--== Aos CSS ==-->
-    <link href="assets/css/aos.css" rel="stylesheet"/>
-    <!--== FancyBox CSS ==-->
-    <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet"/>
-    <!--== Slicknav CSS ==-->
-    <link href="assets/css/slicknav.css" rel="stylesheet"/>
-    <!--== Swiper CSS ==-->
-    <link href="assets/css/swiper.min.css" rel="stylesheet"/>
-    <!--== Slick CSS ==-->
-    <link href="assets/css/slick.css" rel="stylesheet"/>
-    <!--== Main Style CSS ==-->
-    <link href="assets/css/style.css" rel="stylesheet" />
+  <!--== Bootstrap CSS ==-->
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+  <!--== Font-awesome Icons CSS ==-->
+  <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
+  <!--== Pe Icon 7 Min Icons CSS ==-->
+  <link href="assets/css/pe-icon-7-stroke.min.css" rel="stylesheet" />
+  <!--== Animate CSS ==-->
+  <link href="assets/css/animate.css" rel="stylesheet" />
+  <!--== Aos CSS ==-->
+  <link href="assets/css/aos.css" rel="stylesheet" />
+  <!--== FancyBox CSS ==-->
+  <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet" />
+  <!--== Slicknav CSS ==-->
+  <link href="assets/css/slicknav.css" rel="stylesheet" />
+  <!--== Swiper CSS ==-->
+  <link href="assets/css/swiper.min.css" rel="stylesheet" />
+  <!--== Slick CSS ==-->
+  <link href="assets/css/slick.css" rel="stylesheet" />
+  <!--== Main Style CSS ==-->
+  <link href="assets/css/style.css" rel="stylesheet" />
 
 </head>
 
 <body>
 
-<!--wrapper start-->
-<div class="wrapper home-default-wrapper">
+  <!--wrapper start-->
+  <div class="wrapper home-default-wrapper">
 
-  <!--== Start Preloader Content ==-->
-  <div class="preloader-wrap">
-    <div class="preloader">
-      <span class="dot"></span>
-      <div class="dots">
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
-    </div>
-  </div>
-  <!--== End Preloader Content ==-->
-
-  <!--== Start Header Wrapper ==-->
-  <header class="header-area header-default header-transparent header-style sticky-header">
-    <div class="container">
-      <div class="row row-gutter-0 align-items-center">
-        <div class="col-4 col-xs-3 col-sm-3 col-md-3 col-xl-3">
-          <div class="header-logo-area">
-            <a href="index.html">
-              <img class="logo-main" src="assets/img/logo-light.png" alt="Logo" />
-              <img class="logo-light" src="assets/img/logo-light.png" alt="Logo" />
-            </a>
-          </div>
-        </div>
-        <div class="col-8 col-sm-9 col-xl-9">
-          <div class="header-align">
-            <div class="header-navigation-area d-none d-xl-block">
-              <ul class="main-menu nav position-relative">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li class="has-submenu"><a href="blog.html">Pages</a>
-                  <ul class="submenu-nav">
-                    <li><a href="login-register.html">Login/Register</a></li>
-                  </ul>
-                </li>
-                <li class="has-submenu"><a href="classes.html">Classes</a>
-                  <ul class="submenu-nav">
-                    <li><a href="classes.html">Classes</a></li>
-                    <li><a href="class-details.html">Class Details</a></li>
-                  </ul>
-                </li>
-                <li class="has-submenu"><a href="shop.html">Shop</a>
-                  <ul class="submenu-nav">
-                    <li><a href="shop.html">Shop</a></li>
-                    <li><a href="shop-left-sidebar.html">Shop Left Sidebar</a></li>
-                    <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                    <li><a href="shop-no-sidebar.html">Shop No Sidebar</a></li>
-                    <li><a href="shop-single-product.html">Product Details</a></li>
-                    <li><a href="shop-single-product-left-sidebar.html">Product Details Left Sidebar</a></li>
-                    <li><a href="shop-single-product-right-sidebar.html">Product Details Right Sidebar</a></li>
-                    <li><a href="shop-single-product-no-sidebar.html">Product Details No Sidebar</a></li>
-                  </ul>
-                </li>
-                <li class="has-submenu"><a href="team.html">Trainers</a>
-                  <ul class="submenu-nav">
-                    <li><a href="team.html">Trainers</a></li>
-                    <li><a href="team-details.html">Trainer Details</a></li>
-                  </ul>
-                </li>
-                <li class="has-submenu"><a href="blog.html">Blog</a>
-                  <ul class="submenu-nav">
-                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                    <li><a href="blog-no-sidebar.html">Blog No Sidebar</a></li>
-                    <li><a href="blog-details.html">Blog Details Left Sidebar</a></li>
-                    <li><a href="blog-details-right-sidebar.html">Blog Details Right Sidebar</a></li>
-                    <li><a href="blog-details-no-sidebar.html">Blog Details No Sidebar</a></li>
-                  </ul>
-                </li>
-                <li><a href="contact.html">Contact</a></li>
-              </ul>
-            </div>
-            <div class="header-action-area">
-              <div class="header-action-cart d-none d-xl-block">
-                <button class="btn-cart cart-icon" onclick="window.location.href='shop.html'">
-                  <span class="cart-count">2</span>
-                  <i class="pe-7s-shopbag"></i>
-                </button>
-              </div>
-              <button class="btn-menu d-xl-none">
-                <i class="fa fa-bars"></i>
-              </button>
-            </div>
-          </div>
+    <!--== Start Preloader Content ==-->
+    <div class="preloader-wrap">
+      <div class="preloader">
+        <span class="dot"></span>
+        <div class="dots">
+          <span></span>
+          <span></span>
+          <span></span>
         </div>
       </div>
     </div>
-  </header>
-  <!--== End Header Wrapper ==-->
-  
-  <main class="main-content">
-    <!--== Start Hero Area Wrapper ==-->
-    <section class="home-slider-area slider-default">
-      <div class="home-slider-content">
-        <div class="swiper-container home-slider-container">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <!-- Start Slide Item -->
-              <div class="home-slider-item">
-                <div class="bg-thumb bg-img" data-bg-img="assets/img/slider/1.jpg"></div>
-                <div class="slider-content-area">
-                  <div class="container">
-                    <div class="row align-items-center">
-                      <div class="col-sm-8 offset-sm-2 col-lg-5 offset-lg-0">
-                        <div class="content">
-                          <div class="inner-content">
-                            <div class="icon">
-                              <img src="assets/img/icons/g1.png" alt="Image">
-                            </div>
-                            <h2>Time <span>To</span> <span>Get</span> Fit</h2>
-                            <p>Gym is very important to maintain our health luptas sit fugit, sed quia cuuntur magni dolores eos qui rat ione volupta</p>
-                            <a href="contact.html" class="btn-theme">Contact Now</a>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-7 col-lg-7">
-                        <div class="slider-thumb">
-                          <img src="assets/img/slider/h-1.png" alt="Image">
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- End Slide Item -->
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!--== End Hero Area Wrapper ==-->
+    <!--== End Preloader Content ==-->
+
+    <!--== Start Header Wrapper ==-->
+
+    <?php include 'include/header.php'; ?>
+
+    <!--== End Header Wrapper ==-->
+
+
+    <?php include 'include/heroarea.php'; ?>
 
     <!--== Start Features Area Wrapper ==-->
-    <section class="features-area features-default-area">
-      <div class="container-fluid p-0">
-        <div class="row row-gutter-0">
-          <div class="col-sm-6 col-lg-3">
-            <!-- Start Featured Item -->
-            <div class="featured-item">
-              <div class="featured-thumb">
-                <img src="assets/img/class/f1.jpg" alt="Image">
-              </div>
-              <div class="featured-info">
-                <h4>Dumble back lift</h4>
-                <h5>3 SETS, <span>5 MINUTES</span></h5>
-              </div>
-            </div>
-            <!-- End Featured Item -->
-          </div>
-          <div class="col-sm-6 col-lg-3">
-            <!-- Start Featured Item -->
-            <div class="featured-item">
-              <div class="featured-thumb">
-                <img src="assets/img/class/f2.jpg" alt="Image">
-              </div>
-              <div class="featured-info">
-                <h4>Weight lifting</h4>
-                <h5>4 SETS, <span>3 MINUTES</span></h5>
-              </div>
-            </div>
-            <!-- End Featured Item -->
-          </div>
-          <div class="col-sm-6 col-lg-3">
-            <!-- Start Featured Item -->
-            <div class="featured-item">
-              <div class="featured-thumb">
-                <img src="assets/img/class/f3.jpg" alt="Image">
-              </div>
-              <div class="featured-info">
-                <h4>Abs<br>fitness</h4>
-                <h5>2 SETS, <span>3 MINUTES</span></h5>
-              </div>
-            </div>
-            <!-- End Featured Item -->
-          </div>
-          <div class="col-sm-6 col-lg-3">
-            <!-- Start Featured Item -->
-            <div class="featured-item">
-              <div class="featured-thumb">
-                <img src="assets/img/class/f4.jpg" alt="Image">
-              </div>
-              <div class="featured-info">
-                <h4>Ropes lifting</h4>
-                <h5>5 SETS, <span>3 MINUTES</span></h5>
-              </div>
-            </div>
-            <!-- End Featured Item -->
-          </div>
-        </div>
-      </div>
-    </section>
+
+
+    <?php include 'include/features.php'; ?>
+
+
     <!--== End Features Area Wrapper ==-->
 
     <!--== Start About Area ==-->
-    <section class="about-area about-default-area position-relative">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-7 col-xl-7 order-1 order-lg-0">
-            <div class="thumb" data-aos="fade-left" data-aos-duration="1000">
-              <img src="assets/img/about/1.png" alt="Image">
-            </div>
-          </div>
-          <div class="col-lg-5 col-xl-5 order-0 order-lg-1">
-            <div class="about-content">
-              <div class="section-title stitle-style2">
-                <div class="subtitle">SCIENCE 2005</div>
-                <h2 class="title">BEST <span>EQUIPMENTS <br>& FITNESS </span>TRAINERS</h2>
-                <div class="desc">
-                  <p>Gym is very important to maintain our health luptas sit fugit, sed quia cuuntur magni dolores eos qui rat ione volupta pleasure rationally encounter consequences that are extremely </p>
-                </div>
-              </div>
-              <div class="inner-content">
-                <div class="about-list">
-                  <ul>
-                    <li>Builds Aerobic Power</li>
-                    <li>Strong body Structure</li>
-                    <li>Boots your Memory</li>
-                    <li>Brng about resultful Sleep</li>
-                  </ul>
-                </div>
-                <div class="inline-style">
-                  <a class="btn btn-theme" href="classes.html">LET’S START</a>
-                  <div class="btn-play-box">
-                    <a class="btn-play play-video-popup" href="https://www.youtube.com/watch?v=MLpWrANjFbI"><img src="assets/img/icons/play-btn1.png" alt="Image">INTRO VIDEO</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="shape-group">
-        <div class="shape-img1">
-          <img src="assets/img/photos/shape1.png" alt="Image">
-        </div>
-      </div>
-    </section>
+    <?php include 'include/aboutus.php'; ?>
     <!--== End About Area ==-->
 
     <!--== Start Features Area Wrapper ==-->
@@ -315,7 +110,7 @@
                       </div>
                       <div class="featured-info">
                         <h4>Qualified Instructor</h4>
-                        <p>Qualified Instructor consectetur adipg elit, sed do eiusmod tempor incididu ut labore  dolore are same magna </p>
+                        <p>Qualified Instructor consectetur adipg elit, sed do eiusmod tempor incididu ut labore dolore are same magna </p>
                       </div>
                     </div>
                     <!-- End Featured Item -->
@@ -834,277 +629,91 @@
     <!--== End Testimonial Area ==-->
 
     <!--== Start Blog Area Wrapper ==-->
-    <section class="blog-area blog-default-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="section-title text-center">
-              <h2 class="title">LATEST <span>BLOG POST</span></h2>
-              <div class="desc">
-                <p>Gym classes dolor sit amet, consectetur adipiscing elit, sed do eiod tempor <br>didunt ut labore et dolore m et dolore magna aliqua minim niam</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row" data-aos="fade-up" data-aos-duration="1000">
-          <div class="col-md-6 col-lg-4">
-            <!--== Start Blog Post Item ==-->
-            <div class="post-item mb-md-30">
-              <div class="thumb">
-                <a href="blog-details.html"><img src="assets/img/blog/1.jpg" alt="Image"></a>
-              </div>
-              <div class="content">
-                <div class="meta">
-                  <a class="category" href="blog.html"><i class="fa fa-tags icon"></i><span> FITNESS</span></a>
-                  <a class="post-date" href="blog.html"><i class="fa fa-calendar icon"></i><span> 05 MAY, 2023</span></a>
-                </div>
-                <h4 class="title">
-                  <a href="blog-details.html">Perfect workout is the way to shape your body and mind</a>
-                </h4>
-                <p>Gym is very important to maintain our health quia cuuntur magni dolores eos pleasure of mind and make you more healthier</p>
-              </div>
-            </div>
-            <!--== End Blog Post Item ==-->
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <!--== Start Blog Post Item ==-->
-            <div class="post-item mb-md-30">
-              <div class="thumb">
-                <a href="blog-details.html"><img src="assets/img/blog/2.jpg" alt="Image"></a>
-              </div>
-              <div class="content">
-                <div class="meta">
-                  <a class="category" href="blog.html"><i class="fa fa-tags icon"></i><span> YOGA</span></a>
-                  <a class="post-date" href="blog.html"><i class="fa fa-calendar icon"></i><span> 04 MAY, 2023</span></a>
-                </div>
-                <h4 class="title">
-                  <a href="blog-details.html">Yoga is important for both body and mind refreshment</a>
-                </h4>
-                <p>Gym is very important to maintain our health quia cuuntur magni dolores eos pleasure of mind and make you more healthier</p>
-              </div>
-            </div>
-            <!--== End Blog Post Item ==-->
-          </div>
-          <div class="col-md-6 col-lg-4">
-            <!--== Start Blog Post Item ==-->
-            <div class="post-item">
-              <div class="thumb">
-                <a href="blog-details.html"><img src="assets/img/blog/3.jpg" alt="Image"></a>
-              </div>
-              <div class="content">
-                <div class="meta">
-                  <a class="category" href="blog.html"><i class="fa fa-tags icon"></i><span> BODYBUILD</span></a>
-                  <a class="post-date" href="blog.html"><i class="fa fa-calendar icon"></i><span> 02 MAY, 2023</span></a>
-                </div>
-                <h4 class="title">
-                  <a href="blog-details.html">Give more time in workout for a  great shape that you want</a>
-                </h4>
-                <p>Gym is very important to maintain our health quia cuuntur magni dolores eos pleasure of mind and make you more healthier</p>
-              </div>
-            </div>
-            <!--== End Blog Post Item ==-->
-          </div>
-        </div>
-      </div>
-    </section>
+
     <!--== End Blog Area Wrapper ==-->
-  </main>
+    </main>
 
-  <!--== Start Footer Area Wrapper ==-->
-  <footer class="footer-area default-style bg-img" data-bg-img="assets/img/photos/bg-f1.png">
-    <div class="footer-main">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-6 col-md-4 col-lg-3">
-            <div class="widget-item mb-sm-30">
-              <div class="about-widget">
-                <a class="footer-logo" href="index.html">
-                  <img src="assets/img/logo-light.png" alt="Logo">
-                </a>
-                <p>Zymzoo winner dolor sit consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</p>
-                <div class="opening-time">
-                  <h4 class="title">Opening time</h4>
-                  <ul>
-                    <li>Monday - Friday: 7 am to 10 pm</li>
-                    <li>Saturday - Sunday: 9 am to 10 pm</li>
-                  </ul>
-                </div>
-              </div>
+    <!--== Start Footer Area Wrapper ==-->
+
+    <?php include 'include/footer.php'; ?>
+
+    <!--== End Footer Area Wrapper ==-->
+
+    <!--== Scroll Top Button ==-->
+    <div class="scroll-to-top"><span class="fa fa-angle-double-up"></span></div>
+
+    <!--== Start Side Menu ==-->
+    <aside class="off-canvas-wrapper">
+      <div class="off-canvas-inner">
+        <div class="off-canvas-overlay d-none"></div>
+        <!-- Start Off Canvas Content Wrapper -->
+        <div class="off-canvas-content">
+          <!-- Off Canvas Header -->
+          <div class="off-canvas-header">
+            <div class="close-action">
+              <button class="btn-close"><i class="pe-7s-close"></i></button>
             </div>
           </div>
-          <div class="col-sm-6 col-md-4 col-lg-3">
-            <div class="widget-item pl-20 pl-sm-0 mb-sm-30 mb-xs-40">
-              <h4>USEFULL LINK</h4>
-              <nav class="widget-menu-wrap">
-                <ul class="nav-menu nav">
-                  <li><a href="about.html">About us</a></li>
-                  <li><a href="team.html">Membership</a></li>
-                  <li><a href="classes.html">Our Classes</a></li>
-                  <li><a href="team.html">Instructors</a></li>
-                  <li><a href="shop.html">Shop</a></li>
-                  <li><a href="blog.html">Blog post</a></li>
-                </ul>
-                <ul class="nav-menu nav">
-                  <li><a href="#/">Schedules</a></li>
-                  <li><a href="#/">Payment</a></li>
-                  <li><a href="#/">Faqs</a></li>
-                  <li><a href="contact.html">Contact</a></li>
-                </ul>
-              </nav>
+
+          <div class="off-canvas-item">
+            <!-- Start Mobile Menu Wrapper -->
+            <div class="res-mobile-menu">
+              <!-- Note Content Auto Generate By Jquery From Main Menu -->
             </div>
+            <!-- End Mobile Menu Wrapper -->
           </div>
-          <div class="col-sm-6 col-md-4 col-lg-3">
-            <div class="widget-item mb-xs-50">
-              <h4>CONTACT INFO</h4>
-              <div class="widget-contact-info">
-                <div class="contact-info-item">
-                  <div class="icon-box">
-                    <img src="assets/img/icons/1.png" alt="Logo">
-                  </div>
-                  <div class="content">
-                    <h4 class="title">Address</h4>
-                    <p>252B, Central Street Main road Belix Tower, New York, USA</p>
-                  </div>
-                </div>
-                <div class="contact-info-item">
-                  <div class="icon-box">
-                    <img src="assets/img/icons/2.png" alt="Logo">
-                  </div>
-                  <div class="content">
-                    <h4 class="title">Phone</h4>
-                    <ul>
-                      <li><a href="tel://09(123)456789">09 (123) 456 789</a></li>
-                      <li><a href="tel://09(987)654321">09 (987) 654 321</a></li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="contact-info-item">
-                  <div class="icon-box">
-                    <img src="assets/img/icons/3.png" alt="Logo">
-                  </div>
-                  <div class="content">
-                    <h4 class="title">Web</h4>
-                    <ul>
-                      <li><a href="mailto://info@example.com">info@example.com</a></li>
-                      <li><a href="index.html">www.example.com</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="widget-item">
-              <h4>NEWSLETTER</h4>   
-              <div class="widget-newsletter">
-                <p>Subscribe our Newsletter and gates latest updates of offers, productsa and promotions from every week we provide</p>
-                <form class="newsletter-form input-btn-group">
-                  <input class="form-control" type="text" placeholder="Email here">
-                  <button class="btn btn-theme" type="button"><i class="fa fa-paper-plane-o"></i></button>
-                </form>
-              </div>         
-              <div class="widget-social-icons">
-                <a href="#"><i class="fa fa-facebook"></i></a>
-                <a href="#"><i class="fa fa-instagram"></i></a>
-                <a href="#"><i class="fa fa-twitter"></i></a>
-              </div>
-            </div>
-          </div>
+          <!-- Off Canvas Footer -->
+          <div class="off-canvas-footer"></div>
         </div>
+        <!-- End Off Canvas Content Wrapper -->
       </div>
-    </div>
-    <div class="footer-bottom">
-      <div class="container">
-        <div class="footer-bottom-content">
-          <div class="row align-items-center">
-            <div class="col-12">
-              <div class="widget-copyright text-center">
-                <p><i class="fa fa-copyright"></i> 2021 Made with <i class="fa fa-heart"></i> by <a target="_blank" href="https://www.hasthemes.com/">HasThemes</a></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
-  <!--== End Footer Area Wrapper ==-->
-  
-  <!--== Scroll Top Button ==-->
-  <div class="scroll-to-top"><span class="fa fa-angle-double-up"></span></div>
+    </aside>
+    <!--== End Side Menu ==-->
+  </div>
 
-  <!--== Start Side Menu ==-->
-  <aside class="off-canvas-wrapper">
-    <div class="off-canvas-inner">
-      <div class="off-canvas-overlay d-none"></div>
-      <!-- Start Off Canvas Content Wrapper -->
-      <div class="off-canvas-content">
-        <!-- Off Canvas Header -->
-        <div class="off-canvas-header">
-          <div class="close-action">
-            <button class="btn-close"><i class="pe-7s-close"></i></button>
-          </div>
-        </div>
+  <!--=======================Javascript============================-->
 
-        <div class="off-canvas-item">
-          <!-- Start Mobile Menu Wrapper -->
-          <div class="res-mobile-menu">
-            <!-- Note Content Auto Generate By Jquery From Main Menu -->
-          </div>
-          <!-- End Mobile Menu Wrapper -->
-        </div>
-        <!-- Off Canvas Footer -->
-        <div class="off-canvas-footer"></div>
-      </div>
-      <!-- End Off Canvas Content Wrapper -->
-    </div>
-  </aside>
-  <!--== End Side Menu ==-->
-</div>
+  <!--=== Modernizr Min Js ===-->
+  <script src="assets/js/modernizr.js"></script>
+  <!--=== jQuery Min Js ===-->
+  <script src="assets/js/jquery-main.js"></script>
+  <!--=== jQuery Migration Min Js ===-->
+  <script src="assets/js/jquery-migrate.js"></script>
+  <!--=== Popper Min Js ===-->
+  <script src="assets/js/popper.min.js"></script>
+  <!--=== Bootstrap Min Js ===-->
+  <script src="assets/js/bootstrap.min.js"></script>
+  <!--=== jquery Appear Js ===-->
+  <script src="assets/js/jquery.appear.js"></script>
+  <!--=== jquery Swiper Min Js ===-->
+  <script src="assets/js/swiper.min.js"></script>
+  <!--=== jquery Fancybox Min Js ===-->
+  <script src="assets/js/fancybox.min.js"></script>
+  <!--=== jquery Aos Min Js ===-->
+  <script src="assets/js/aos.min.js"></script>
+  <!--=== jquery Slicknav Js ===-->
+  <script src="assets/js/jquery.slicknav.js"></script>
+  <!--=== jquery Countdown Js ===-->
+  <script src="assets/js/jquery.countdown.min.js"></script>
+  <!--=== jquery Tippy Js ===-->
+  <script src="assets/js/tippy.all.min.js"></script>
+  <!--=== Isotope Min Js ===-->
+  <script src="assets/js/isotope.pkgd.min.js"></script>
+  <!--=== jquery Vivus Js ===-->
+  <script src="assets/js/vivus.js"></script>
+  <!--=== Parallax Min Js ===-->
+  <script src="assets/js/parallax.min.js"></script>
+  <!--=== Slick  Min Js ===-->
+  <script src="assets/js/slick.min.js"></script>
+  <!--=== jquery Wow Min Js ===-->
+  <script src="assets/js/wow.min.js"></script>
+  <!--=== jquery Zoom Min Js ===-->
+  <script src="assets/js/jquery-zoom.min.js"></script>
 
-<!--=======================Javascript============================-->
-
-<!--=== Modernizr Min Js ===-->
-<script src="assets/js/modernizr.js"></script>
-<!--=== jQuery Min Js ===-->
-<script src="assets/js/jquery-main.js"></script>
-<!--=== jQuery Migration Min Js ===-->
-<script src="assets/js/jquery-migrate.js"></script>
-<!--=== Popper Min Js ===-->
-<script src="assets/js/popper.min.js"></script>
-<!--=== Bootstrap Min Js ===-->
-<script src="assets/js/bootstrap.min.js"></script>
-<!--=== jquery Appear Js ===-->
-<script src="assets/js/jquery.appear.js"></script>
-<!--=== jquery Swiper Min Js ===-->
-<script src="assets/js/swiper.min.js"></script>
-<!--=== jquery Fancybox Min Js ===-->
-<script src="assets/js/fancybox.min.js"></script>
-<!--=== jquery Aos Min Js ===-->
-<script src="assets/js/aos.min.js"></script>
-<!--=== jquery Slicknav Js ===-->
-<script src="assets/js/jquery.slicknav.js"></script>
-<!--=== jquery Countdown Js ===-->
-<script src="assets/js/jquery.countdown.min.js"></script>
-<!--=== jquery Tippy Js ===-->
-<script src="assets/js/tippy.all.min.js"></script>
-<!--=== Isotope Min Js ===-->
-<script src="assets/js/isotope.pkgd.min.js"></script>
-<!--=== jquery Vivus Js ===-->
-<script src="assets/js/vivus.js"></script>
-<!--=== Parallax Min Js ===-->
-<script src="assets/js/parallax.min.js"></script>
-<!--=== Slick  Min Js ===-->
-<script src="assets/js/slick.min.js"></script>
-<!--=== jquery Wow Min Js ===-->
-<script src="assets/js/wow.min.js"></script>
-<!--=== jquery Zoom Min Js ===-->
-<script src="assets/js/jquery-zoom.min.js"></script>
-
-<!--=== Custom Js ===-->
-<script src="assets/js/custom.js"></script>
+  <!--=== Custom Js ===-->
+  <script src="assets/js/custom.js"></script>
 
 </body>
 
 
-<!-- Mirrored from htmldemo.net/zymzoo/zymzoo/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jun 2026 08:47:07 GMT -->
 </html>
