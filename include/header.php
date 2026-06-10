@@ -15,11 +15,11 @@
               <ul class="main-menu nav position-relative">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
-                <li class="has-submenu"><a href="blog.php">Pages</a>
+                <!-- <li class="has-submenu"><a href="blog.php">Pages</a>
                   <ul class="submenu-nav">
                     <li><a href="login-register.php">Login/Register</a></li>
                   </ul>
-                </li>
+                </li> -->
                 <li class="has-submenu"><a href="classes.php">Classes</a>
                   <ul class="submenu-nav">
                     <li><a href="classes.php">Classes</a></li>
@@ -57,7 +57,7 @@
                 <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
-            <div class="header-action-area">
+            <!-- <div class="header-action-area">
               <div class="header-action-cart d-none d-xl-block">
                 <button class="btn-cart cart-icon" onclick="window.location.href='shop.php'">
                   <span class="cart-count">2</span>
@@ -68,7 +68,7 @@
                 <i class="fa fa-bars"></i>
               </button>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>

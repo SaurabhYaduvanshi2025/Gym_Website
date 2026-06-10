@@ -106,7 +106,7 @@
           <div class="row align-items-center">
             <div class="col-12">
               <div class="widget-copyright text-center">
-                <p><i class="fa fa-copyright"></i> 2021 Made with <i class="fa fa-heart"></i> by <a target="_blank" href="https://www.hasthemes.com/">HasThemes</a></p>
+                <p><i class="fa fa-copyright"></i> 2021 Made with <i class="fa fa-heart"></i> by <a target="_blank" href="https://www.hasthemes.com/">High Digi Tech</a></p>
               </div>
             </div>
           </div>
