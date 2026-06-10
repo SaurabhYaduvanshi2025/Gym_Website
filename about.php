@@ -231,7 +231,7 @@
                 <img src="assets/img/photos/pricing1.png" alt="Image">
               </div>
               <div class="pricing-amount">
-                <h2>$120</h2>
+                <h2>Rs 1500</h2>
                 <h3>per month</h3>
               </div>
               <div class="pricing-content">
@@ -246,7 +246,7 @@
               </div>
               <div class="pricing-footer">
                 <div class="pricing-footer-inner">
-                  <a href="#/" class="btn btn-theme">JOIN TODAY</a>
+                  <a href="contact.php" class="btn btn-theme">JOIN TODAY</a>
                 </div>
               </div>
             </div>
@@ -262,7 +262,7 @@
                 <img src="assets/img/photos/pricing2.png" alt="Image">
               </div>
               <div class="pricing-amount">
-                <h2>$165</h2>
+                <h2>Rs 2500</h2>
                 <h3>per month</h3>
               </div>
               <div class="pricing-content">
@@ -277,7 +277,7 @@
               </div>
               <div class="pricing-footer">
                 <div class="pricing-footer-inner">
-                  <a href="#/" class="btn btn-theme">JOIN TODAY</a>
+                  <a href="contact.php" class="btn btn-theme">JOIN TODAY</a>
                 </div>
               </div>
             </div>
@@ -293,7 +293,7 @@
                 <img src="assets/img/photos/pricing3.png" alt="Image">
               </div>
               <div class="pricing-amount">
-                <h2>$225</h2>
+                <h2>Rs 3500</h2>
                 <h3>per month</h3>
               </div>
               <div class="pricing-content">
@@ -308,7 +308,7 @@
               </div>
               <div class="pricing-footer">
                 <div class="pricing-footer-inner">
-                  <a href="#/" class="btn btn-theme">JOIN TODAY</a>
+                  <a href="contact.php" class="btn btn-theme">JOIN TODAY</a>
                 </div>
               </div>
             </div>
@@ -338,8 +338,8 @@
                         <img class="quote-icon" src="assets/img/icons/quote-icon.jpg" alt="Icon">
                       </div>
                       <div class="client-info">
-                        <h4 class="name">Stephen Fleming</h4>
-                        <h6 class="designation">Mariland, USA</h6>
+                        <h4 class="name">Rakesh Singh</h4>
+                        <h6 class="designation">Delhi, India</h6>
                       </div>
                     </div>
                   </div>
@@ -350,63 +350,6 @@
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="bmi-calc-form bg-img" data-bg-img="assets/img/testimonial/1.jpg">
-              <div class="section-title text-center mt-0">
-                <h2 class="title">BMI <span>CALCULATOR</span></h2>
-                <div class="desc">
-                  <p>BMI is a reliable guide to estimate the healthy weight range based on height, wight and age</p>
-                </div>
-              </div>
-              <form action="#/">
-                <div class="row">
-                  <div class="col-md-4">
-                    <div class="form-group">
-                      <input class="form-control" type="text" placeholder="Height / cm">
-                    </div>
-                  </div>
-                  <div class="col-md-4">
-                    <div class="form-group">
-                      <input class="form-control" type="text" placeholder="Weight / kg">
-                    </div>
-                  </div>
-                  <div class="col-md-4">
-                    <div class="form-group">
-                      <input class="form-control" type="text" placeholder="Age">
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="form-group">
-                      <select class="form-control form-select" aria-label="gender select example">
-                        <option selected>Gender</option>
-                        <option value="1">Female</option>
-                        <option value="2">Male</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="form-group">
-                      <select class="form-control form-select" aria-label="activity select example">
-                        <option selected>Select an activity factor</option>
-                        <option value="1">One</option>
-                        <option value="2">Two</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="col-md-12">
-                    <div class="bmi-calc-form-footer">
-                      <div class="form-group mb-0">
-                        <button class="btn btn-theme" type="button">CALCULATE</button>
-                      </div>
-                      <div class="bmi-calc-result">
-                        <input class="form-control" type="text" placeholder="0.0">
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </form>
             </div>
           </div>
         </div>
@@ -597,6 +540,7 @@
   </main>
 
   <!--== Start Footer Area Wrapper ==-->
+  <?php include 'include/footer.php'; ?>
   <!--== End Footer Area Wrapper ==-->
   
   <!--== Scroll Top Button ==-->

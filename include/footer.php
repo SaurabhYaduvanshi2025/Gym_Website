@@ -24,18 +24,18 @@
               <h4>USEFULL LINK</h4>
               <nav class="widget-menu-wrap">
                 <ul class="nav-menu nav">
-                  <li><a href="about.html">About us</a></li>
-                  <li><a href="team.html">Membership</a></li>
-                  <li><a href="classes.html">Our Classes</a></li>
-                  <li><a href="team.html">Instructors</a></li>
-                  <li><a href="shop.html">Shop</a></li>
-                  <li><a href="blog.html">Blog post</a></li>
+                  <li><a href="about.php">About us</a></li>
+                  <li><a href="team.php">Membership</a></li>
+                  <li><a href="classes.php">Our Classes</a></li>
+                  <li><a href="team.php">Instructors</a></li>
+                  <li><a href="shop.php">Shop</a></li>
+                  <li><a href="blog.php">Blog post</a></li>
                 </ul>
                 <ul class="nav-menu nav">
-                  <li><a href="#/">Schedules</a></li>
-                  <li><a href="#/">Payment</a></li>
-                  <li><a href="#/">Faqs</a></li>
-                  <li><a href="contact.html">Contact</a></li>
+                  <!-- <li><a href="schedules.php">Schedules</a></li> -->
+                  <!-- <li><a href="payment.php">Payment</a></li> -->
+                  <li><a href="faqs.php">Faqs</a></li>
+                  <li><a href="contact.php">Contact</a></li>
                 </ul>
               </nav>
             </div>

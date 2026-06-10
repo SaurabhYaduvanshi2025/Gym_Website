@@ -3,7 +3,7 @@
       <div class="row row-gutter-0 align-items-center">
         <div class="col-4 col-xs-3 col-sm-3 col-md-3 col-xl-3">
           <div class="header-logo-area">
-            <a href="index.html">
+            <a href="index.php">
               <img class="logo-main" src="assets/img/logo-light.png" alt="Logo" />
               <img class="logo-light" src="assets/img/logo-light.png" alt="Logo" />
             </a>
@@ -26,7 +26,7 @@
                     <li><a href="class-details.php">Class Details</a></li>
                   </ul>
                 </li>
-                <li class="has-submenu"><a href="shop.php">Shop</a>
+                <!-- <li class="has-submenu"><a href="shop.php">Shop</a>
                   <ul class="submenu-nav">
                     <li><a href="shop.php">Shop</a></li>
                     <li><a href="shop-left-sidebar.php">Shop Left Sidebar</a></li>
@@ -37,7 +37,7 @@
                     <li><a href="shop-single-product-right-sidebar.php">Product Details Right Sidebar</a></li>
                     <li><a href="shop-single-product-no-sidebar.php">Product Details No Sidebar</a></li>
                   </ul>
-                </li>
+                </li> -->
                 <li class="has-submenu"><a href="team.php">Trainers</a>
                   <ul class="submenu-nav">
                     <li><a href="team.php">Trainers</a></li>
