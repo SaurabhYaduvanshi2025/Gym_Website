@@ -2,7 +2,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from htmldemo.net/zymzoo/zymzoo/shop-checkout.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jun 2026 08:47:50 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -687,5 +686,4 @@
 </body>
 
 
-<!-- Mirrored from htmldemo.net/zymzoo/zymzoo/shop-checkout.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jun 2026 08:47:50 GMT -->
 </html>

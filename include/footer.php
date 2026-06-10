@@ -51,7 +51,7 @@
                   </div>
                   <div class="content">
                     <h4 class="title">Address</h4>
-                    <p>252B, Central Street Main road Belix Tower, New York, USA</p>
+                    <p>Rohini, Sector 18, Near Pitambpura Delhi </p>
                   </div>
                 </div>
                 <div class="contact-info-item">
@@ -61,8 +61,8 @@
                   <div class="content">
                     <h4 class="title">Phone</h4>
                     <ul>
-                      <li><a href="tel://09(123)456789">09 (123) 456 789</a></li>
-                      <li><a href="tel://09(987)654321">09 (987) 654 321</a></li>
+                      <li><a href="tel://09(123)456789">98680-25254</a></li>
+                      <li><a href="tel://09(987)654321">85746-25746</a></li>
                     </ul>
                   </div>
                 </div>
