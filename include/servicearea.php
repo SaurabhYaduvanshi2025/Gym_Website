@@ -121,7 +121,7 @@
                 <div class="content">
                   <h2 class="title">CLASSICAL<br>WORKOUT</h2>
                   <p>Lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiod tempor incididunt ut labore</p>
-                  <a class="btn-link" href="classes.html">VIEW SCHEDULE</a>
+                  <!-- <a class="btn-link" href="classes.html">VIEW SCHEDULE</a> -->
                 </div>
               </div>
               <div class="shape-style" data-aos="fade-right" data-aos-duration="1000"></div>

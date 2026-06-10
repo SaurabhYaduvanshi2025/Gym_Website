@@ -46,30 +46,24 @@
                   </ul>
                 </li>
                 <li class="has-submenu"><a href="blog.php">Blog</a>
-                  <ul class="submenu-nav">
+                  <!-- <ul class="submenu-nav">
                     <li><a href="blog-left-sidebar.php">Blog Left Sidebar</a></li>
                     <li><a href="blog-right-sidebar.php">Blog Right Sidebar</a></li>
                     <li><a href="blog-no-sidebar.php">Blog No Sidebar</a></li>
                     <li><a href="blog-details.php">Blog Details Left Sidebar</a></li>
                     <li><a href="blog-details-right-sidebar.php">Blog Details Right Sidebar</a></li>
                     <li><a href="blog-details-no-sidebar.php">Blog Details No Sidebar</a></li>
-                  </ul>
+                  </ul> -->
                 </li>
                 <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
-            <!-- <div class="header-action-area">
-              <div class="header-action-cart d-none d-xl-block">
-                <button class="btn-cart cart-icon" onclick="window.location.href='shop.php'">
-                  <span class="cart-count">2</span>
-                  <i class="pe-7s-shopbag"></i>
-                </button>
-              </div>
+            <div class="header-action-area">
               <button class="btn-menu d-xl-none">
                 <i class="fa fa-bars"></i>
               </button>
             </div>
-          </div> -->
+          </div>
         </div>
       </div>
     </div>

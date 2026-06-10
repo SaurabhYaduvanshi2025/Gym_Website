@@ -19,7 +19,7 @@
                             </div>
                             <h2>Time <span>To</span> <span>Get</span> Fit</h2>
                             <p>Gym is very important to maintain our health luptas sit fugit, sed quia cuuntur magni dolores eos qui rat ione volupta</p>
-                            <a href="contact.html" class="btn-theme">Contact Now</a>
+                            <a href="contact.php" class="btn-theme">Contact Now</a>
                           </div>
                         </div>
                       </div>

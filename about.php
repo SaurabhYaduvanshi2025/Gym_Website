@@ -312,124 +312,8 @@
     <!--== End Testimonial Area ==-->
 
     <!--== Start Popular Products Area Wrapper ==-->
-    <section class="product-area product-default-area position-relative">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12-">
-            <div class="section-title text-center">
-              <h2 class="title"><span>GATESHAPE </span>PRODUCTS</h2>
-              <div class="desc">
-                <p>Gym classes dolor sit amet, consectetur adipiscing elit, sed do eiod tempor <br>didunt ut labore et dolore m et dolore magna aliqua minim niam</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-sm-6 col-md-3">
-            <!-- Start Product Item -->
-            <div class="product-item mb-sm-30">
-              <div class="product-thumb">
-                <a href="shop-single.html">
-                  <img src="assets/img/shop/1.jpg" alt="Image">
-                </a>
-                <div class="ribbons">
-                  <span class="ribbon ribbon-new">NEW</span>
-                </div>
-                <div class="product-action">
-                  <a class="btn-theme" href="shop-cart.html">Add to Cart</a>
-                </div>
-              </div>
-              <div class="product-info">
-                <h4 class="title"><a href="shop-single.html">Hand Dumble</a></h4>
-                <div class="prices">
-                  <span class="price">$2.5 per kg</span>
-                </div>
-              </div>
-            </div>
-            <!-- End Product Item -->
-          </div>
-          <div class="col-sm-6 col-md-3">
-            <!-- Start Product Item -->
-            <div class="product-item mb-sm-30">
-              <div class="product-thumb">
-                <a href="shop-single.html">
-                  <img src="assets/img/shop/2.jpg" alt="Image">
-                </a>
-                <div class="product-action">
-                  <a class="btn-theme" href="shop-cart.html">Add to Cart</a>
-                </div>
-              </div>
-              <div class="product-info">
-                <h4 class="title"><a href="shop-single.html">Fitness Slam Ball</a></h4>
-                <div class="prices">
-                  <span class="price">$48.00</span>
-                </div>
-              </div>
-            </div>
-            <!-- End Product Item -->
-          </div>
-          <div class="col-sm-6 col-md-3">
-            <!-- Start Product Item -->
-            <div class="product-item mb-xs-30">
-              <div class="product-thumb">
-                <a href="shop-single.html">
-                  <img src="assets/img/shop/3.jpg" alt="Image">
-                </a>
-                <div class="ribbons">
-                  <span class="ribbon ribbon-hot">HOT</span>
-                </div>
-                <div class="product-action">
-                  <a class="btn-theme" href="shop-cart.html">Add to Cart</a>
-                </div>
-              </div>
-              <div class="product-info">
-                <h4 class="title"><a href="shop-single.html">Gym Personal Bag</a></h4>
-                <div class="prices">
-                  <span class="price">$25.00</span>
-                </div>
-              </div>
-            </div>
-            <!-- End Product Item -->
-          </div>
-          <div class="col-sm-6 col-md-3">
-            <!-- Start Product Item -->
-            <div class="product-item">
-              <div class="product-thumb">
-                <a href="shop-single.html">
-                  <img src="assets/img/shop/4.jpg" alt="Image">
-                </a>
-                <div class="ribbons">
-                  <span class="ribbon ribbon-off">15% OFF</span>
-                </div>
-                <div class="product-action">
-                  <a class="btn-theme" href="shop-cart.html">Add to Cart</a>
-                </div>
-              </div>
-              <div class="product-info">
-                <h4 class="title"><a href="shop-single.html">Water Bottle</a></h4>
-                <div class="prices">
-                  <span class="price">$10.50</span>
-                </div>
-              </div>
-            </div>
-            <!-- End Product Item -->
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="product-btn">
-              <a class="btn-border" href="shop.html">VIEW ALL</a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="shape-group">
-        <div class="shape-img4">
-          <img src="assets/img/photos/shape1.png" alt="Image">
-        </div>
-      </div>
-    </section>
-    <!--== End Popular Products Area Wrapper ==-->
+
+  
 
     <!--== Start Features Area Wrapper ==-->
     <section class="features-area features-default-area">
@@ -574,5 +458,5 @@
 </body>
 
 
-<!-- Mirrored from htmldemo.net/zymzoo/zymzoo/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jun 2026 08:47:20 GMT -->
+
 </html>

@@ -1,4 +1,4 @@
-<section class="features-area">
+<section Classical Workout="features-area">
       <div class="container">
         <div class="row">
           <div class="col-12">

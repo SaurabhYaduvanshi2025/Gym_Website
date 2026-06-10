@@ -104,9 +104,9 @@
               <h2 class="title">BELIEVE IN <span>YOURSELF, <br>BE FIT </span>& HEALTHIER</h2>
             </div>
           </div>
-          <div class="col-md-6 col-xl-8 d-none d-md-block text-center text-md-end">
+          <!-- <div class="col-md-6 col-xl-8 d-none d-md-block text-center text-md-end">
             <a href="classes.html" class="btn-theme">VIEW ALL</a>
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="container-fluid p-0">
@@ -183,9 +183,9 @@
                       <a href="#/"><i class="fa fa-instagram icon"></i></a>
                       <a href="#/"><i class="fa fa-twitter icon"></i></a>
                     </div>
-                    <div class="team-footer">
+                    <!-- <div class="team-footer">
                       <a class="btn" href="team-details.html">VIEW PROFILE</a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
@@ -209,9 +209,9 @@
                       <a href="#/"><i class="fa fa-instagram icon"></i></a>
                       <a href="#/"><i class="fa fa-twitter icon"></i></a>
                     </div>
-                    <div class="team-footer">
+                    <!-- <div class="team-footer">
                       <a class="btn" href="team-details.html">VIEW PROFILE</a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
@@ -235,9 +235,9 @@
                       <a href="#/"><i class="fa fa-instagram icon"></i></a>
                       <a href="#/"><i class="fa fa-twitter icon"></i></a>
                     </div>
-                    <div class="team-footer">
+                    <!-- <div class="team-footer">
                       <a class="btn" href="team-details.html">VIEW PROFILE</a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
@@ -261,9 +261,9 @@
                       <a href="#/"><i class="fa fa-instagram icon"></i></a>
                       <a href="#/"><i class="fa fa-twitter icon"></i></a>
                     </div>
-                    <div class="team-footer">
+                    <!-- <div class="team-footer">
                       <a class="btn" href="#/">VIEW PROFILE</a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
