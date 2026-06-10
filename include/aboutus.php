@@ -25,10 +25,10 @@
                   </ul>
                 </div>
                 <div class="inline-style">
-                  <a class="btn btn-theme" href="classes.html">LET’S START</a>
-                  <div class="btn-play-box">
+                  <a class="btn btn-theme" href="contact.php">LET’S START</a>
+                  <!-- <div class="btn-play-box">
                     <a class="btn-play play-video-popup" href="https://www.youtube.com/watch?v=MLpWrANjFbI"><img src="assets/img/icons/play-btn1.png" alt="Image">INTRO VIDEO</a>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>

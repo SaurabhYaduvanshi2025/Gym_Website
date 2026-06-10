@@ -34,6 +34,7 @@
                 <ul class="nav-menu nav">
                   <!-- <li><a href="schedules.php">Schedules</a></li> -->
                   <!-- <li><a href="payment.php">Payment</a></li> -->
+                  <li><a href="testimonials.php">Testimonials</a></li>
                   <li><a href="faqs.php">Faqs</a></li>
                   <li><a href="contact.php">Contact</a></li>
                 </ul>

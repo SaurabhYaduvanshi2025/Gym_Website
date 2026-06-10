@@ -1,7 +1,7 @@
 <section class="testimonial-area testimonial-default-area position-relative">
       <div class="container">
         <div class="row">
-          <div class="col-lg-6">
+          <div class="col-lg-12">
             <div class="section-title stitle-style2">
               <div class="subtitle">TESTIMONIALS</div>
               <h2 class="title">THAT’S <span>WHAT OUR<br>CLIENT </span>SAYS</h2>
@@ -12,32 +12,32 @@
                   <div class="swiper-wrapper testimonial-slider">
                     <div class="swiper-slide testimonial-single">
                       <div class="client-content">
-                        <p>“Getshape is very smart and technical sound gym, which maintain professional trainer as well as modern equipments. to maintain our health luptas sit fugit, sed quia cuuntur mag dolores eos qui rat ione volupta pleasure rationally”</p>
+                        <p>"Zymzoo is very smart and technical sound gym, which maintain professional trainer as well as modern equipments. to maintain our health luptas sit fugit, sed quia cuuntur mag dolores eos qui rat ione volupta pleasure rationally"</p>
                         <img class="quote-icon" src="assets/img/icons/quote-icon.jpg" alt="Icon">
                       </div>
                       <div class="client-info">
-                        <h4 class="name">Stephen Fleming</h4>
-                        <h6 class="designation">Mariland, USA</h6>
+                        <h4 class="name">Rakesh Singh</h4>
+                        <h6 class="designation">New Delhi, India</h6>
                       </div>
                     </div>
                     <div class="swiper-slide testimonial-single">
                       <div class="client-content">
-                        <p>“Getshape is very smart and technical sound gym, which maintain professional trainer as well as modern equipments. to maintain our health luptas sit fugit, sed quia cuuntur mag dolores eos qui rat ione volupta pleasure rationally”</p>
+                        <p>"Zymzoo is very smart and technical sound gym, which maintain professional trainer as well as modern equipments. to maintain our health luptas sit fugit, sed quia cuuntur mag dolores eos qui rat ione volupta pleasure rationally"</p>
                         <img class="quote-icon" src="assets/img/icons/quote-icon.jpg" alt="Icon">
                       </div>
                       <div class="client-info">
-                        <h4 class="name">Stephen Fleming</h4>
-                        <h6 class="designation">Mariland, USA</h6>
+                        <h4 class="name">Punit Sharma</h4>
+                        <h6 class="designation">New Delhi, India</h6>
                       </div>
                     </div>
                     <div class="swiper-slide testimonial-single">
                       <div class="client-content">
-                        <p>“Getshape is very smart and technical sound gym, which maintain professional trainer as well as modern equipments. to maintain our health luptas sit fugit, sed quia cuuntur mag dolores eos qui rat ione volupta pleasure rationally”</p>
+                        <p>"Zymzoo is very smart and technical sound gym, which maintain professional trainer as well as modern equipments. to maintain our health luptas sit fugit, sed quia cuuntur mag dolores eos qui rat ione volupta pleasure rationally"</p>
                         <img class="quote-icon" src="assets/img/icons/quote-icon.jpg" alt="Icon">
                       </div>
                       <div class="client-info">
-                        <h4 class="name">Stephen Fleming</h4>
-                        <h6 class="designation">Mariland, USA</h6>
+                        <h4 class="name">Nikita Verna</h4>
+                        <h6 class="designation">New Delhi, India</h6>
                       </div>
                     </div>
                   </div>
@@ -48,63 +48,6 @@
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="bmi-calc-form bg-img" data-bg-img="assets/img/testimonial/1.jpg">
-              <div class="section-title text-center mt-0">
-                <h2 class="title">BMI <span>CALCULATOR</span></h2>
-                <div class="desc">
-                  <p>BMI is a reliable guide to estimate the healthy weight range based on height, wight and age</p>
-                </div>
-              </div>
-              <form action="#/">
-                <div class="row">
-                  <div class="col-md-4">
-                    <div class="form-group">
-                      <input class="form-control" type="text" placeholder="Height / cm">
-                    </div>
-                  </div>
-                  <div class="col-md-4">
-                    <div class="form-group">
-                      <input class="form-control" type="text" placeholder="Weight / kg">
-                    </div>
-                  </div>
-                  <div class="col-md-4">
-                    <div class="form-group">
-                      <input class="form-control" type="text" placeholder="Age">
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="form-group">
-                      <select class="form-control form-select" aria-label="gender select example">
-                        <option selected>Gender</option>
-                        <option value="1">Female</option>
-                        <option value="2">Male</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="form-group">
-                      <select class="form-control form-select" aria-label="activity select example">
-                        <option selected>Select an activity factor</option>
-                        <option value="1">One</option>
-                        <option value="2">Two</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="col-md-12">
-                    <div class="bmi-calc-form-footer">
-                      <div class="form-group mb-0">
-                        <button class="btn btn-theme" type="button">CALCULATE</button>
-                      </div>
-                      <div class="bmi-calc-result">
-                        <input class="form-control" type="text" placeholder="0.0">
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </form>
             </div>
           </div>
         </div>

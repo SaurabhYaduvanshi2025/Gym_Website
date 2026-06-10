@@ -15,6 +15,7 @@
               <ul class="main-menu nav position-relative">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
+                <li><a href="testimonials.php">Testimonials</a></li>
                 <!-- <li class="has-submenu"><a href="blog.php">Pages</a>
                   <ul class="submenu-nav">
                     <li><a href="login-register.php">Login/Register</a></li>

@@ -147,8 +147,8 @@
                   </div>
                   <!--== End Blog Post Item ==-->
                 </div>
-                <div class="col-md-6 col-lg-4">
-                  <!--== Start Blog Post Item ==-->
+                <!-- <div class="col-md-6 col-lg-4">
+                 
                   <div class="post-item">
                     <div class="thumb">
                       <a href="blog-details.html"><img src="assets/img/blog/4.jpg" alt="Image"></a>
@@ -164,10 +164,10 @@
                       <p>Gym is very important to maintain our health quia cuuntur magni dolores eos pleasure of mind and make you more healthier</p>
                     </div>
                   </div>
-                  <!--== End Blog Post Item ==-->
-                </div>
-                <div class="col-md-6 col-lg-4">
-                  <!--== Start Blog Post Item ==-->
+                  
+                </div> -->
+                <!-- <div class="col-md-6 col-lg-4">
+                  
                   <div class="post-item">
                     <div class="thumb">
                       <a href="blog-details.html"><img src="assets/img/blog/5.jpg" alt="Image"></a>
@@ -183,10 +183,10 @@
                       <p>Gym is very important to maintain our health quia cuuntur magni dolores eos pleasure of mind and make you more healthier</p>
                     </div>
                   </div>
-                  <!--== End Blog Post Item ==-->
-                </div>
-                <div class="col-md-6 col-lg-4">
-                  <!--== Start Blog Post Item ==-->
+                  
+                </div> -->
+                <!-- <div class="col-md-6 col-lg-4">
+                
                   <div class="post-item">
                     <div class="thumb">
                       <a href="blog-details.html"><img src="assets/img/blog/8.jpg" alt="Image"></a>
@@ -202,10 +202,10 @@
                       <p>Gym is very important to maintain our health quia cuuntur magni dolores eos pleasure of mind and make you more healthier</p>
                     </div>
                   </div>
-                  <!--== End Blog Post Item ==-->
-                </div>
-                <div class="col-md-6 col-lg-4">
-                  <!--== Start Blog Post Item ==-->
+               
+                </div> -->
+                <!-- <div class="col-md-6 col-lg-4">
+                  
                   <div class="post-item">
                     <div class="thumb">
                       <a href="blog-details.html"><img src="assets/img/blog/6.jpg" alt="Image"></a>
@@ -221,10 +221,10 @@
                       <p>Gym is very important to maintain our health quia cuuntur magni dolores eos pleasure of mind and make you more healthier</p>
                     </div>
                   </div>
-                  <!--== End Blog Post Item ==-->
-                </div>
-                <div class="col-md-6 col-lg-4">
-                  <!--== Start Blog Post Item ==-->
+                 
+                </div> -->
+                <!-- <div class="col-md-6 col-lg-4">
+                
                   <div class="post-item">
                     <div class="thumb">
                       <a href="blog-details.html"><img src="assets/img/blog/7.jpg" alt="Image"></a>
@@ -240,10 +240,10 @@
                       <p>Gym is very important to maintain our health quia cuuntur magni dolores eos pleasure of mind and make you more healthier</p>
                     </div>
                   </div>
-                  <!--== End Blog Post Item ==-->
-                </div>
-                <div class="col-md-6 col-lg-4">
-                  <!--== Start Blog Post Item ==-->
+              
+                </div> -->
+                <!-- <div class="col-md-6 col-lg-4">
+                  
                   <div class="post-item">
                     <div class="thumb">
                       <a href="blog-details.html"><img src="assets/img/blog/9.jpg" alt="Image"></a>
@@ -259,10 +259,10 @@
                       <p>Gym is very important to maintain our health quia cuuntur magni dolores eos pleasure of mind and make you more healthier</p>
                     </div>
                   </div>
-                  <!--== End Blog Post Item ==-->
-                </div>
+             
+                </div> -->
               </div>
-              <div class="row">
+              <!-- <div class="row">
                 <div class="col-lg-12">
                   <div class="pagination-area">
                     <nav>
@@ -299,7 +299,7 @@
                     </nav>
                   </div>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
